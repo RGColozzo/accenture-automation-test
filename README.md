@@ -96,6 +96,6 @@ To execute it, you just have to double click in the file **start.sh**!
 ### Author
 ---
 
-Made by [Rennan Gimenez](https://www.facebook.com/RennanGimenez)!
+Made by [Rennan Gimenez](https://www.instagram.com/rennangimenez/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rennan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rennan-gimenez/)](https://www.linkedin.com/in/rennan-gimenez/)
